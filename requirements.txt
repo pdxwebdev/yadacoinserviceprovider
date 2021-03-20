@@ -22,7 +22,7 @@ idna==2.6
 ipython==5.5.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 mixpanel==4.3.2
 olefile==0.44
