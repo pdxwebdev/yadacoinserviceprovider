@@ -14,7 +14,7 @@ enum-compat==0.0.2
 enum34==1.1.6
 eventlet==0.21.0
 Flask==0.12.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 future==0.16.0
 greenlet==0.4.12
 humanhash==0.0.1
